@@ -1,0 +1,11 @@
+.custom-shadow {
+  box-shadow: black 3px 3px 5px;
+}
+.btn.active {
+  box-shadow: red 0px 3px;
+  height: 77px;
+}
+.btn.active1 {
+  box-shadow: rgb(27, 187, 155) 0px 3px;
+  height: 77px;
+}
